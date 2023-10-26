@@ -47,10 +47,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javohirdeveloper0612&" alt="javohirdeveloper0612" /></p>
 
 
-
-<h3 align="right">😂 Random Dev Meme</h3>
-<img align="right" alt="Coding" width="400" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=javohirdeveloper0612&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
