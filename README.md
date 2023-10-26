@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width="1000" height="300" src="https://assets-global.website-files.com/62e2573821100dba34dd0985/64f85a7b173d1ee5be13476a_java_banner%20(1).webp" alt="my banner">
+<img width="1000" height="250" src="https://assets-global.website-files.com/62e2573821100dba34dd0985/64f85a7b173d1ee5be13476a_java_banner%20(1).webp" alt="my banner">
 
 </p>
 
