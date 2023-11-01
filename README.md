@@ -23,8 +23,6 @@
 
 - 📫 How to reach me **javoxiryallayev1@gmail.com**
 
-- 📄 Know about my experiences [test uchun](test uchun)
-
 - ⚡ Fun fact **Sometimes I also play computer games 😅**
 
 <h3 align="left">Connect with me:</h3>
